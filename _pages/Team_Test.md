@@ -13,13 +13,13 @@ redirect_from:
 * [Sweta Kumari](https://sites.google.com/view/swetakumari/home) Ph.D. Scholar
 
 ## Current Team Members
-* [Aravindakshan](mailto:ee16b124@smail.iitm.ac.in)
-* [Prateek Mishra](mailto:ee16b124@smail.iitm.ac.in)
-* [Sowmya](mailto:ee16b124@smail.iitm.ac.in)
+* [Aravindakshan](mailto:bs15b006@smail.iitm.ac.in) Final Year Undergraduate
+* [Prateek Mishra](mailto:bs15b024@smail.iitm.ac.in) Final Year Undergraduate
+* [Sowmya](mailto:sowmyamanojna@gmail.com) Third Year Undergraduate
 
 ## Interns
-* [Shruti](mailto:ee16b124@smail.iitm.ac.in) 2019 December
-* [Shreyas](mailto:ee16b124@smail.iitm.ac.in) 2018 May
+* [Sruthi](mailto:sruthi.susan.kuriakose@gmail.com) 2019 December
+* [Shreyas](mailto:shreyasramachandran@gmail.com) 2018 May
 
 
 ## Alumini Team Members
