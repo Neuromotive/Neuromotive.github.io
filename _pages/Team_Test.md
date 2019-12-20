@@ -11,9 +11,13 @@ redirect_from:
 
 ## Team Members
 * [Sweta Kumari](https://sites.google.com/view/swetakumari/home) 
-* [Umangi Jain](mailto:ee16b124@smail.iitm.ac.in)
+* [Aravindakshan](mailto:ee16b124@smail.iitm.ac.in)
+* [Prateek Mishra](mailto:ee16b124@smail.iitm.ac.in)
+* [Sowmya](mailto:ee16b124@smail.iitm.ac.in)
 
-
+## Interns
+* [Shreyas](mailto:ee16b124@smail.iitm.ac.in)
+* [Shruti](mailto:ee16b124@smail.iitm.ac.in)
 
 
 ## Alumini Team Members
