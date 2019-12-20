@@ -10,7 +10,7 @@ redirect_from:
 * [Prof. V. Srinivasa Chakravarthy](https://biotech.iitm.ac.in/Faculty/CNS_LAB/VSC.html)
 
 ## Current Team Leader
-* [Sweta Kumari](https://sites.google.com/view/swetakumari/home) 
+* [Sweta Kumari](https://sites.google.com/view/swetakumari/home) Ph.D. Scholar
 
 ## Current Team Members
 * [Aravindakshan](mailto:ee16b124@smail.iitm.ac.in)
