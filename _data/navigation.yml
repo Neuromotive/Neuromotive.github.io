@@ -8,12 +8,12 @@ main:
     
   - title: "Resources"
     url: /Resources/
-      
-  - title: "Team"
-    url: /Team_Test/
     
   - title: "Publications"
     url: /Publication/
+      
+  - title: "Team"
+    url: /Team_Test/
     
   - title: "Collaboration"
     url: /Collaboration/
