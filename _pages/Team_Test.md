@@ -23,7 +23,7 @@ redirect_from:
 
 
 ## Alumini Team Members
-* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home) (Former Team Leader from 2017-2018)
+* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home) Former Team Leader from 2017-2018
 * [Ojasvita](mailto:ojasvitawalgad@gmail.com)
 * [Ram Chitalla](mailto:ram.nvgvpsr@gmail.com)
 * [Nikhil](mailto:ynikhil358@gmail.com)
