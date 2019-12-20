@@ -10,12 +10,16 @@ redirect_from:
 * [Prof. V. Srinivasa Chakravarthy](https://biotech.iitm.ac.in/Faculty/CNS_LAB/VSC.html)
 
 ## Team Members
-* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home)
 * [Sweta Kumari](https://sites.google.com/view/swetakumari/home) 
+* [Umangi Jain](mailto:ee16b124@smail.iitm.ac.in)
+
+
+
+
+## Alumini Team Members
+* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home)
 * [Ojasvita](mailto:ojasvitawalgad@gmail.com)
 * [Ram Chitalla](mailto:ram.nvgvpsr@gmail.com)
-* [Umangi Jain](mailto:ee16b124@smail.iitm.ac.in)
-* [Dhruv Chopra](mailto:ee16b107@smail.iitm.ac.in)
 * [Nikhil](mailto:ynikhil358@gmail.com)
 * [Rajat](mailto:g.rajat.97.kumar@gmail.com)
 * [Neeraj Milan](mailto:neerajmilan968@gmail.com)
