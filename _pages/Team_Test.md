@@ -21,10 +21,8 @@ redirect_from:
 * [Shreyas](mailto:ee16b124@smail.iitm.ac.in)
 * [Shruti](mailto:ee16b124@smail.iitm.ac.in)
 
-## Alumini Team Leader
-* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home)
-
 ## Alumini Team Members
+* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home) (Former Team Leader from 2017-2018)
 * [Ojasvita](mailto:ojasvitawalgad@gmail.com)
 * [Ram Chitalla](mailto:ram.nvgvpsr@gmail.com)
 * [Nikhil](mailto:ynikhil358@gmail.com)
