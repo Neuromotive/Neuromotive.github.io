@@ -9,8 +9,10 @@ redirect_from:
 ## Supervisor
 * [Prof. V. Srinivasa Chakravarthy](https://biotech.iitm.ac.in/Faculty/CNS_LAB/VSC.html)
 
-## Team Members
+## Current Team Leader
 * [Sweta Kumari](https://sites.google.com/view/swetakumari/home) 
+
+## Current Team Members
 * [Aravindakshan](mailto:ee16b124@smail.iitm.ac.in)
 * [Prateek Mishra](mailto:ee16b124@smail.iitm.ac.in)
 * [Sowmya](mailto:ee16b124@smail.iitm.ac.in)
@@ -19,9 +21,10 @@ redirect_from:
 * [Shreyas](mailto:ee16b124@smail.iitm.ac.in)
 * [Shruti](mailto:ee16b124@smail.iitm.ac.in)
 
+## Alumini Team Leader
+* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home)
 
 ## Alumini Team Members
-* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home)
 * [Ojasvita](mailto:ojasvitawalgad@gmail.com)
 * [Ram Chitalla](mailto:ram.nvgvpsr@gmail.com)
 * [Nikhil](mailto:ynikhil358@gmail.com)
