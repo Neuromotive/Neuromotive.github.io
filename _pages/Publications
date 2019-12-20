@@ -9,6 +9,6 @@ redirect_from:
 {{ page.excerpt | markdownify }}
 
 #### Address:
-Computational Neuroscience lab, Room no - 510
+Hello
 
 
