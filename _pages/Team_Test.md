@@ -18,8 +18,9 @@ redirect_from:
 * [Sowmya](mailto:ee16b124@smail.iitm.ac.in)
 
 ## Interns
-* [Shreyas](mailto:ee16b124@smail.iitm.ac.in)
-* [Shruti](mailto:ee16b124@smail.iitm.ac.in)
+* [Shruti](mailto:ee16b124@smail.iitm.ac.in) 2019 December
+* [Shreyas](mailto:ee16b124@smail.iitm.ac.in) 2018 May
+
 
 ## Alumini Team Members
 * [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home) (Former Team Leader from 2017-2018)
