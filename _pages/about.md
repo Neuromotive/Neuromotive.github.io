@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 ***
-### 1st CNSL Virtual Meet 2020 on 15th to 16th August. To Know More, &nbsp;&nbsp;&nbsp;[Click here](https://sites.google.com/view/cnsl-2020/home?authuser=0) 
+### 1st CNSL Virtual Meet 2020 on 15th to 16th August. To Know More, &nbsp;[Click here](https://sites.google.com/view/cnsl-2020/home?authuser=0) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![test](iitm.png){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Indian Institute of Technology Madras](https://www.iitm.ac.in/) 
