@@ -12,6 +12,6 @@ redirect_form:
 
 #### 2. Sweta Kumari, S. Aravindakshan, V. Srinivasa Chakravarthy, “Elman and Jordan Recurrence in Convolutional Neural Networks Using Attention Window”, Proceedings of ICICC 2020 [Preview](https://www.springer.com/gp/book/9789811551123)
 
-#### 3. Sweta Kumari, S. Aravindakshan, Umangi Jain, V. Srinivasa Chakravarthy, “Convolutional Elman Jordan Neural Network for Reconstruction and Classification Using Attention Window”, Proceedings of [ICICV 2020] (https://www.springer.com/gp/book/9789811560668)
+#### 3. Sweta Kumari, S. Aravindakshan, Umangi Jain, V. Srinivasa Chakravarthy, “Convolutional Elman Jordan Neural Network for Reconstruction and Classification Using Attention Window”, Proceedings of ICICV 2020 [Preview] (https://www.springer.com/gp/book/9789811560668)
 
 
